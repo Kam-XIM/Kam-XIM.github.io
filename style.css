@@ -8,6 +8,7 @@ body {
 #all-contents {
   max-width: 400px;
     margin: auto;
+    margin-left: 620px
 }
 
 /* navigation menu */
@@ -20,6 +21,7 @@ nav {
     border-width: medium;
     border-radius: 10px;
     width: 670px;
+    
 }
 h1 {
     display: flex;
